@@ -23,3 +23,4 @@
 * npm install gh-pages --save-dev
 * script -> "predeploy": "npm run build",
 * script -> "deploy": "gh-pages -d build"
+* npm run deploy
